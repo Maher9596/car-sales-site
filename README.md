@@ -5,6 +5,4 @@ I used JavaScript to toggle between classes for the popup menu
 
 The page is responsive to different screens
 
-See some screenshots of how the site looks in small and big screen
-
-
+See some screenshots *mobile.PNG* and *desktop.PNG* of how the site looks in small and big screen
